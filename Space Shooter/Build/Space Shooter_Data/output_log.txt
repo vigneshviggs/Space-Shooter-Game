@@ -1,0 +1,177 @@
+InitializI nngiial ize engine 0.0fsio(n:9 570e.be4 ()
+b98b70ebeb9)
+GfxxDvevi: c:reatatngng device client; threaded=
+1
+d3d:  no suppport foor tths s vdee tye t (accelereleed/red/)r
+ef)
+D3D99 ninializaizion fn ifed
+Gfd
+GefxDeevircetingreatving  deevic e rclied=t; 
+threaded=1
+d3d11: failed to create D3D11 device (0x887a0004)
+D3D11 initialization failed
+D3D9/D3D11 initialization failed, trying OpenGL
+GfxDevice: creating device client; threaded=1
+d3d11: failed to create D3D11 device (0x887a0004)
+D3D11 initialization failed
+D3D9/D3D11 initialization failed, trying OpenGL
+GfxDevice: creating device client; threaded=1
+OpenGL:
+  O penGL::  OpenGL 1.1 [1.1.0]
+    R1.1.0]
+    Renderer: 
+GDI Generic  Microndor: orporation
+t Corporation
+    VRAM:     64 MB (via fallback)
+    Extensions: GL_WIN_swap_hint GL_EXT_bgra GL_EXT_paletted_texture
+    WGL extensions: none!
+GL: disabling multisample because WGL_ARB_pixel_format not fully supported
+GL: Detected 64 MB VRAM
+    VRAM:     64 MB (via fallback)
+    Extensions: GL_WIN_swap_hint GL_EXT_bgra GL_EXT_paletted_texture
+    WGL extensions: none!
+GL: disabling multisample because WGL_ARB_pixel_format not fully supported
+GL: Detected 64 MB VRAM
+Crash!!!
+Crash!!!
+SymInit: Syymbol-SerchchPath: '.;F:\GAME\game\Build;F:\GAME\game\Bldld;C:\Windows;C:\Windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Administrator'
+O
+S-Version: 6.1.76601 (Service Pack 1) 0x100-0x1
+
+F:\GAME\game\Build\Space Shooter.exe:SpFce:\GAME\gaexe B0uild\Sp), sihooter.exe:Space Shooter.exe (012A0000), size: ,16DB: 'F:\GAME\ga: e\Build\Space Shooter.exe', fileVersionME5.ga0.e\Buil
+d\Space Shooter.exe', fileVersion: 5.0.0.39095
+C::W\ndindows\SOW6WOW64ll.dll.dll:ntdll.dll (0000), size:i1z7e8:4 (result: 0), SymType: '-exType: '-expoBrted-'Wind, sPSDB: 'C:\Windowdllys WiOW64\ntdll.d.ll', fileVers
+ion: 6.1.7601.17514
+C:\Ci:\Windowsw\w64\kernel3e.rlnel32.dll:kern e753E0000), s3zE0 001011, size: 11:14), S m(ypeul:: -),xSymTtepe: '-exported-', PDs: 'Cswow6dowe\syswow64\k',n l3fidle',ersion: 6.1.7601.17601.
+17514
+CC\Windows\s\yyswoww64\KERRENBESL.dlSE.dll:LBASELB.dE.dll (751A0000),ize: 286720 (result: 0), SySymTyp '-exported-', PDB: 'C:\Windows\s\syswow6K4\KERNESEAdll', fileVersVers 6.n: 6.11.1751.1
+7514
+C:\Winndows\system2\HIID.DLL:HID.DLL (728F0000),  sze: 3686464 (result: 0), SymType: '-exported-', PDB: '\C:\Windows\system3ID.DLL', fileVersirs: 6.1.7.1.760385
+385
+C:\WC:\Windowss\syswow6crmsvcrl:msvcrt.dll (769B0000), size: 704512 (result: 0), 0),mType: '- '-exported- P DBB: 'C:\Windows\syswow64\mmvcvt.dlldll',ileVeeVersio 7.0.7600.1.3853
+5
+C:\WCn:\Windows\syswow64\WS2_32.dll:2.S2_32.d4l D78D0000), size: 2170888 (result: 0), SymType: '-eexortede',dP-B:,' :PWiDdB: 'sC:\Windows\syswow64\WSi2eV_rsionll'6.1.7601.1sion:
+ 6.1.7601.17514
+C:CW:ndows\syswoyw6ow64\RPCRTd.dll:RRT4.dll (74C90000),), siz:: 998040 (reresult: 0), SymType: '-exported-', PDB:C 'C:\Windows\syswow6PCRT4.dll', fileVersion: 6.1.7601.17514
+514
+C:\Windows\syswCw64\Ssdows\s.dll:Ss\SsplCi..dlll (piCli.dll (74A90000), size: 3ult: 0), SymtType: '-mexported-', PDB: ',: Pindo 'C:\Wind64s\syswow64\SspiCli.dVersion: 6.1.7601.17514601.17514
+C:\WindowC\syswow64s\syYPTBASE.dll:CRYPTBASE.dll (74A80000), siz000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CRYPTBASfileVersion: 6.1.7600.163850.16385
+CC\:\Windows\SysWOW64\sechost.dllechost.dll (75840000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\WiWindows\SysWOW64\chost.dldll', fileVersn: 6.1.7600.16385
+5
+C:\WindoCs:\Winowows\syswow64\SI.I.dl(74FSF0000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\WPDB: 'C:\Windows\syswow64\NSI.dll', fileVersi600.16385
+00.16385
+C:\WindowsCs:\WindowsSERyswow64\USER32.dll:USER32.dll (74EF: 104857ize: 1sul576 (resultyp0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USER32.dll', fileVersion: 6.1.7
+601.17514
+C:\WindowsCsysWindows\syswow64\GDI32.dll (74E60000)(74E60000589824 (resul824: 0), Sy:mType: '-exportedxported-', PDB: doC:\syswow64\GDI32.dll', fildll', fileVersion: 6.7514
+1.17514
+C:\Windows\sysC:\WinLPKwsdllyswow64\LPK.dll00LPK.dll (76F00000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\sy', fileVLPK.dll', fileVersion: 
+6.1.7600.16385
+C:\Windows\syswow64\UCP:\Windows\syswow64\USP10.0), size: 643072 (result: 0size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\USP10.dll', fileVer
+sion: 1.626.7601.17514
+C:C:\ndndos\syswow64\ADVAPI32.dll:ADVAPI32.dll (76yswow64\ADVAPI36.55360 (result:d0), SymType: '-exported-', PDB: 'C 655360 (result: 0), SymType: '-exported-', PDB:.1.7601.1ows\s
+yswow64\ADVAPI32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\VERSION.dll:VERSION.dll (72C30000), size: 368C4:\Windows\system32\Ve: 'OeN.dll:VERSION.dll (72C30000), size: 36ERS4 (result: 0), SymType: '-exported-', P
+DB: 'C:\Windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\Windows\syswow64\ole32.dll:ole32.dll (756E0000), size: 1425408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ole32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\ole32.dll:ole32.dll (756E0000), size: 1425408 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\ole32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\SHLWAPI.dll:SHLWAPI.dll (768B0000)), size: 356352 (result: 0), SymType: '-xported-', PDB: 'C:\Windows\syswow64\SHHWAPI.dll', f fileVersion: 6.7601.17514
+4
+C:CW:\Windows\wows64\SHELL32.dll:SHELL32.dll (75C10000)00), size12886016 (result: 0), SymType: ' '-exported-', PD: 'C:\Windoows\syswow64\SHELL32.dll', fileVersion: 6.1.761.17514
+4
+C:\Windows\system32\OPENGL32.dCl:OPWENGLws.dll (6E3A0000), size: 819200 (result: 0), Sym), size: 819200 d(result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\OP00.1638d5', fileVersion: 6.1.7600.16385
+C:\WCndows\system32\Gm32\Gdll:GLU32GLU32.d6E3700370000), size: 139264 (lt: 0), SymType: '-exported-', PDB:PDB: 'C:\Windows\system32\GLU32.dll', filsion: 6.1: 6.1.7600.1
+6385
+CC\:\Windows\system32\DDRAW.dll:DDRAW.dll (6E560000), size: 946176 (result: 0)SymType: '-exporteded-', PDB: 'C:\Windows\system32\DRAW..dll', fileVersion: 6.1.76600.16385
+
+C:\Windows\system32\DCIMAN32.dll:DCIMAN32.Cl:\Window000), size: 2CIM76 (resll:DCIMAN32.dll (7235xporte, s', PDB: 'C:\Windows\system32\DCIMAN32.dll', fileVersion: 6.1.7600.16385
+\DCIMAN32.dll', fileVersion: 6.1.7600.16385
+C:\Windows\sCs:\Wi4\SETUPAyPI.dll:SETUPAPI.dll:SETUPAPI00), size: 1691648 (resu691648 (result: 0), SymTyted-', PDB: 'C:\Windows\syswow64\SETUPAPI.dll', file.dll', fileVersion: 6.1.
+7601.17514
+C:\Windows\syswow64\CFGMGR32.dll:CFGMGC3:\Win (75380000), size: 159744 (rCFGMG: 0),ll (75380: '-exported-', PDB: 'sult: 0), SymType: '-exported-ll', fileVersion: 6.1.7601.17\CFG
+MGR32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64COLEAUndows\slyswow64\OLEAUT3250B000LEAUT32ze:  (750B000esult: 0), SymType: '-exported-', PDB: '-exported-', PDB: 'C:\Windows\syswow64\OLEAUT32.dll', fileVersio
+n: 6.1.7601.17514
+C:\Windows\syswow64\DEVOBJ.dll:DCV:\J.dll (754F0000), siVOBJ.dll:DEVOBJ.lt: 0), S000ymType: '-exported-', PDB: 'C:\Windows\syswow64\DEVOBJ.dllC:\Windows\syswow64\DEVOBJ.dll'
+, fileVersion: 6.1.7600.16385
+C:\Windows\system32\dwmapi.dll:dwmaapi.dll(6FE70000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\WWindows\system32\dwmapi.dll', fileVersin: 6.1.7600.163885
+
+C:\Ci:\Windows\system32\WINMM.dll:WINMM.dllED0000), size: 204800 (result:sult: 0), SymTy-e: '-exported-', : 'C:\Wi\Windows\system32\WM.dll', fileVersion: 6.1.7601.17514
+14
+C::\Windws\system32\MSACM322.dllMSACM32.dll (6E71000000), size: 81920 (result:), SymTypepe: '-exported-', PDB: 'C:\Windows\syem32\MSACM32.dll', fileVersion: 6.1.7600.16385
+85
+C:\Windows\sCs:ow64\IMMs\sydll:IMM32.dll (75000000dl s (750000216 (resul 393216 SymType: '-exported-', PDB: 'C:\Windows\syswow64\IMM32.dll', fileVersion: 6.1.7601.175141.7601.17514
+C:\WindCw:\Windows\syswowF.dll:MSCTF.dll (76A60000), size: 8size: 83esult:(0)sult: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\MS, fileVersion: 6.1.7600.16385
+00.16385
+C:\Windows\systeem32\DNSAPI.dll:DNSAPI.dll (73880000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\IPHLPAPI.DLLCI:HLPAPI.DLL (728702\I0),LPsize:LL:IPHLPAPI.DLL (728, S00Type: '-ex114688 (resulB: 'C:\Windows\system32\IPH-LPAPI.DL'C: fileVerssystim32\IPHLPAPI.DLL', f
+ileVersion: 6.1.7601.17514
+C:\Windows\system32\WINNSI.DLL:WINNSI.DLL (72C60\Windows\sy: 28672 (resuI.DLL:WINNSI.DLL (72860000)-, size: 28672 (resu\syste)3, SyNNSI.DLL', fileVersion: 6.1.7600.16385system32\WINNSI.DLL', fileVersion: 6.1.7600.16385
+C:\Windows\system32\WINHTTP.dll:WINHTTP.dll (6FF2000C): sWindows\system32sult: 0), SymTIypTe: '-exporF200-', PDB: 'C:\Windowse\ult: 0), SWIType: '-exported-VersDB: 'Cn: 6.1.7w60system132
+\WINHTTP.dll', fileVersion: 6.1.7601.17514
+C:\Wiindows\yystem32\webio.dll:webio.dll (6FED0000), size: 323584 (result: 0), SymType: '-nosymbols-', PDB: 'C:\Windows\system32\webio.dll', fileVersion: 6.1.7601.17514
+17514
+F:\GAME\game\BuFl:\GAME\game\Ber_Data\Mono\moter_Data\Mon.dll (10000000), siz(10220000), size: 2289664ymType: : 0), SymType: '-exported-', PDB: 'F:\GAME\game\Build\Space Shooter_Data\
+Mono\mono.dll'
+C:\Windows\syswow64\PSAPI.DLL:PSAPI.DCL (752F0000), size:\PSAPI.DLL:PSAPI.DLL (ymType: 0-e), size: 20480 (result: 0), Symwow64\PSAPI.DLL', fileVersion: indows\syswow64
+\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\Winndows\system32\MSWSOCK.dll:MSWSCKCKll ll (70F20000), size: 245760 (result:  SymType: '-e'-exported-', PDB: 'C:\Windows\system32\MSWSOCK.dll', fileVersion: 6.1.7601.175
+14
+CC:\inindows\system32\utheme.dll:uxtheme.dll (722DD0000), size: 24288 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\system32\uxtheme.dll', fileeeVersion: 6.1.76016385
+5
+C:\Windows\syswow64\WIN\Windows\syswow64\WINTlRUST.dll:0WINTRUST.dll (750result: 0), e: 184320 (resulte d-, SymType: '-exported-', PDB: 'C:\Wind.dll', filw64rsion: 6.1.7601.17514rsion: 6.1.7601.17514
+C:\Windows\syswow64\CRYPT32.dll:CRYPTC2:dllindows00ysw), size: 1167360 (result: 0), Sy860000), sizeorted-', PDB: 'lt: 0), SymType: '-exported-', PDB: 'C:\Windows\syswo01.17514
+32.dll', fileVersion: 6.1.7601.17514
+C:\Windows\syswow64\MSASN1.dll:MSASN1.dll (750A0000), size: C9152 ndows\syswow64\MSASN1.d'll:MSASN1.', PDB: 'C:\Windows\syswow64\MSASN1.dll', fmTepersione 6.1.7601.17514orted-', PDB: 'C:\Windows\syswow64\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\WinCows\syswow64\CLBCatQ.DLL:CLBCatQ.LBCatQ.DLL (75510000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\Windows\syswow64\CLBCatQ.DLL', fileVersion: 2001.116385
+0.16385
+C:\Windows\sCs:\m32\wbem\wbemprox.dll:wbemproox.dll (7empr0x.dll), 702Fe: 40),  (resu40960 (result: 0),'-exType: '-expDB: 'C:\Windows\system32\wbem\wbemprox.dll',bemprox.dll', fileVersion:3685
+7600.16385
+C:\Windows\system32\wbemcomn.dll:wbeCc:mWindn.dll (6D7E0000), size: 376832 (resudt:l (6D7E0000), size: 376832, PDB: 'C: 0), dows\system32\wbemcomn.dll', fileVersiws\system32\wb17514
+.dll', fileVersion: 6.1.7601.17514
+C:\Windows\system32\CCYPTWSP.dll:Cystem32\CRYP721F0dll:CRYPTe: 90112(721F0000), ), SymType: '-exported-), SymType: '-exported-', PDB: 'C:\Windows\system32\CRYP 6.1.7600.16385
+rsion: 6.1.7600.16385
+C:\Windows\system32\rsCe:\.dll:rsaenh.dll (722500h.dl size: 241664 (result: , siSymType: '-exported-', PDB: 'C:\W '-exported-', PDB: 'C:\Windows\system32\rsaenh.dll', fil
+eVersion: 6.1.7600.16385
+C:\Windows\system32C:\Windows\system32\RpcRtRemote. (72240000), se.d:ll (72240000), size: 57344 (resultorted-', PDB:: '-exported-', PDB: 'C:\Windows\sysl', fitem32\RpcRtRemote.dll', fi
+leVersion: 6.1.7601.17514
+C:\Windows\system32\wbCm\wbemsows\syswbemsvc.dll (6FEC0000), sizesvc.dll (6FEC0000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\Windc.ws\system3Versemn: 6.1.7600.', fil
+eVersion: 6.1.7600.16385
+C:\WindCw:\Wistnmdo\wb\systam32\woem\fastprtprox.dll (6D740000), sD740000), size: 614400 (result: 0), SymTyped-', xported-', PDdows\system32\wbem\fastprox.dll', fileVersion: 6.1.7601.175147601.17514
+C:\Windows\systemC:\NTDSAPI.dll:NTD32\NTDSAPI.dll:NTDSAPI.dll (727D0000), st: 0), SymType: '-exported-', PDB:'-exporteows\sysB: 'C:\Windows\system32\Nersion: 6.1.7600.16385
+n: 6.1.7600.16385
+C:\Windows\system32Cd:\Windows\system32\dbgh(6E470000), size.dll (6E (result: 0),e: 962560 (result: 0), SymType: '-exported-', PDB:\dbghelp.dll', fileVersion: 6.1.7601.17514
+sion
+========== OUTPU
+TIG STACK TRA OUTPUTING STACK TRACE
+ 
+============C7 (Spa
+c
+e Sho0ter) Renderer::GetMaterialCount
+r::01829A33 (Spacet
+hoo01829A33 (Space Shooter) Re
+ct0<int>::GetBottom
+hooter) RectT<int>::Geoter) m
+ctT0int>::GetBottom
+Sho013DD2C7 (Space Shooter) ReportScript:TransferTypeless
+::TransferTypeless
+Sho01475FF0 (Space Shooter)
+ U0erList::AddUser
+Shooter) PlayerWinMain
+ter01831D98 (Spain
+Sh01831D98 (tT<int>::GetBottect
+T<0nt>::GetBottace
+ S0ooter) RectT<int>::GetBottom
+T<7nt>::GetBottom
+l3753F33CA (kernel32) Bas
+eT76F69ED2 (ntdll
+) 76F6niED2 (ntdll) RtlInitial
+i7eExceptionChain
+ R76F69EA5 (ntdll) RtonChain
+zeExceptionChND O
+
+========== END OF STACKT
+R
+ACE ===========
+
+**** Crash! ****
+**** Crash! ****
